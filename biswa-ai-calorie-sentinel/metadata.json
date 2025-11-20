@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Biswa AI Calorie Sentinel",
+  "description": "A premium, secure, AI-powered food calorie analyzer with history tracking and voice commands.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
